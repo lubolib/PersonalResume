@@ -62,9 +62,7 @@ in full process.
 ## **Other skills**
 * Basic programming skills for analysis in Python, Matlab
 
-<br>
 ---
-<br>
 
 ## **卢博**
 
