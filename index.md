@@ -1,5 +1,5 @@
-## **卢博/Bo Lu**
-
+## **Bo Lu**
+---
 Data and place of birth: **04.02.1998, Hubei Province of China**
 <br>Address: **Xianning City, Hubei Province, China**
 <br>Contact: **+8615602454711 / <alpha_lb@outlook.com>**
