@@ -1,13 +1,13 @@
 <br/>
 
-## **Bo Lu**
+## **Bo LU**
 
-Date of birth: **04.02.1998**
-<br>Contact: **+8615602454711 / <alpha_lb@outlook.com>**
+Date of birth: **04.Feb.1998**
+<br>Contact: **+86 15602454711 / <alpha_lb@outlook.com>**
 
 ## **Education & Experience**
 
-***2022/08  - 2026/08*** (in progress)
+***2022/08  - 2026/08 (<span style="color: red;">in progress</span>)*** 
 <br>**The University of Hong Kong, Department of Electrical and Electronic Engineering - *<u>Doctor</u>***
 
 ***2020/08  - 2021/04***
@@ -24,19 +24,18 @@ Date of birth: **04.02.1998**
 <br>Standard fabrication of micro-devices, including thin film deposition, lithography, dry and wet etch.
 * **Emission tuning of Multiple Quantum Well (2022 ~ 2026)**
 <br>a. Nanostructure Device – strain relaxation.
-i.	Fabricate nanopillar of diameter 100nm with nanosphere as hard mask.
-ii.	Planarization with TEOS SiO2 and polish.
-iii.	~ 70 nm blueshift.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	Fabricate nanopillar of diameter 100nm with nanosphere as hard mask.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	Planarization with TEOS SiO2 and polish.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii.	~ 70 nm blueshift.
 <br>b. High Temperature Anneal Device – indium diffusion
-i.	uLED with different size fabricated (1/5/50 um).
-ii.	High temperature anneals introduced.
-iii.	~ 100 nm blueshift.
-
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	uLED with different size fabricated (1/5/50 um).
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	High temperature anneals introduced.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii.	~ 100 nm blueshift.
 <br>c. MOS Field Effect Device – piezoelectric filed manipulation
-i.	Circular uLED of diameter 50 um with third terminal on top insulator.
-ii.	Lumerical, Comsol and TCAD simulation for band structure changes.
-iii.	Tuning emission color with field voltage, no intensity variation.
-iv.	~11 nm blueshift.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	Circular uLED of diameter 50 um with third terminal on top insulator.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	Lumerical, Comsol and TCAD simulation for band structure changes.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii.	Tuning emission color with field voltage, no intensity variation.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv.	~11 nm blueshift.
 
 * **Process Integration Engineer - COT (2020 ~ 2021)**
 <br>a. Maintain and update pdk of silicon photonics device design, help with tape out.
@@ -53,7 +52,7 @@ iv.	~11 nm blueshift.
 ### **Journal Paper**
 * **Dynamic Tuning of Piezoelectric Fields in InGaN/GaN Quantum Wells LED**
 <br>B. Lu, H. Choi
-<br>*under review*,
+<br>*under review*
 * **Color Difference and Thermal Stability of Flexible Transparent InGaN/GaN Multiple Quantum Wells Mini-LED Arrays**
 <br>B. Lu, Y. Wang, B. Hyun, H. Kuo and Z. Liu
 <br>*IEEE Electron Device Letters*, 41(7), 1040-1043, 2020. [10.1109/LED.2020.2994143](https://ieeexplore.ieee.org/document/9091823)
@@ -75,5 +74,5 @@ iv.	~11 nm blueshift.
 
 ## **Other skills**
 * Data analysis in Python, Matlab
-*	Lumerical, Comsol, Klayout
+* Lumerical, Comsol, Klayout
 <br/>
