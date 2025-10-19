@@ -23,7 +23,7 @@ Date of birth: **04.Feb.1998**
 ## **Projects**
 * **Cleanroom Fabrication (2018-2026)**
 <br>Standard fabrication of micro-devices, including thin film deposition, lithography, dry and wet etch. Measurement methods of SEM, TEM, PL, CL.
-* **Emission tuning of InGaN microLED (2022 ~ 2026)**
+* **Emission tuning of GaN microLED (2022 ~ 2026)**
 <br>a. Nanostructure Device – strain relaxation.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	Fabricate nanopillar of diameter 100nm with nanosphere as hard mask.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	Planarization with TEOS SiO2 and polish.
