@@ -22,7 +22,7 @@ Date of birth: **04.Feb.1998**
 
 ## **Projects**
 * **Cleanroom Fabrication (2018-2026)**
-<br>Standard fabrication of micro-devices, including thin film deposition, lithography, dry and wet etch.
+<br>Standard fabrication of micro-devices, including thin film deposition, lithography, dry and wet etch. Measurement methods of SEM, TEM, PL, CL.
 * **Emission tuning of Multiple Quantum Well (2022 ~ 2026)**
 <br>a. Nanostructure Device – strain relaxation.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	Fabricate nanopillar of diameter 100nm with nanosphere as hard mask.
