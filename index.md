@@ -30,11 +30,11 @@ Date of birth: **04.Feb.1998**
 * **Emission tuning of Multiple Quantum Well in microLED (2022 ~ 2026)**
 <br>High Indium content InGaN/GaN wafer
 <br>*1. Nanostructure Device – <u>strain relaxation</u>*
-<br>GaN nanopillar fabricated by ICP etching with nanosphere as hard mask. Then TEOS SiO2 was used as filling material for planarization via slurry polish. Around 70nm blueshift was achieved as compared to the as-grown material.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;GaN nanopillar fabricated by ICP etching with nanosphere as hard mask. Then TEOS SiO2 was used as filling material for planarization via slurry polish. Around 70nm blueshift was achieved as compared to the as-grown material.
 <br>*2. High Temperature Anneal Device – <u>indium diffusion</u>*
-<br>MicroLED with different sizes (1/5/50um) were fabricated by standard fabrication process. High temperature anneal was then introduced, leading to about 100nm blueshift.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;MicroLED with different sizes (1/5/50um) were fabricated by standard fabrication process. High temperature anneal was then introduced, leading to about 100nm blueshift.
 <br>*3. MOS Field Effect Device – <u>piezoelectric filed manipulation</u>*
-<br>Lumerical, Comsol and TCAD simulation were carried out for proposal hypothesis. Circular microLED of diameter in 50um with third terminal on top insulator were fabricated. ~11nm blueshift without intensity variation was demonstrated by tuning the voltage on field terminal.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Lumerical, Comsol and TCAD simulation were carried out for proposal hypothesis. Circular microLED of diameter in 50um with third terminal on top insulator were fabricated. ~11nm blueshift without intensity variation was demonstrated by tuning the voltage on field terminal.
 
 * **Process Integration Engineer - COT (2020 ~ 2021)**
 <br>1. Maintain and update pdk of silicon photonics device design, help with tape out.
