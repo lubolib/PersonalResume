@@ -33,7 +33,7 @@ Date of birth: **04.Feb.1998**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;GaN nanopillar fabricated by ICP etching with nanosphere as hard mask. Then TEOS SiO2 was used as filling material for planarization via slurry polish. Around 70nm blueshift was achieved as compared to the as-grown material.
 <br>*2. High Temperature Anneal Device – <u>indium diffusion</u>*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;MicroLED with different sizes (1/5/50um) were fabricated by standard fabrication process. High temperature anneal was then introduced, leading to about 100nm blueshift.
-<br>*3. MOS Field Effect Device – <u>piezoelectric filed manipulation</u>*
+<br>*3. MOS Field Effect Device – <u>band structure manipulation</u>*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Lumerical, Comsol and TCAD simulation were carried out for proposal hypothesis. Circular microLED of diameter in 50um with third terminal on top insulator were fabricated. ~11nm blueshift without intensity variation was demonstrated by tuning the voltage on field terminal.
 
 * **Process Integration Engineer - COT (2020 ~ 2021)**
