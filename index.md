@@ -21,33 +21,31 @@ Date of birth: **04.Feb.1998**
 <br>**China University of Mining and Technology, School of Physics - *<u>Bachelor</u>***
 
 ## **Projects**
-* **Cleanroom Fabrication (2018-2026)**
-<br>Standard fabrication of micro-devices, including thin film deposition, lithography, dry and wet etch. Measurement methods of SEM, TEM, PL, CL.
-* **Emission tuning of GaN microLED (2022 ~ 2026)**
-<br>a. Nanostructure Device – strain relaxation.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	Fabricate nanopillar of diameter 100nm with nanosphere as hard mask.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	Planarization with TEOS SiO2 and polish.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii.	~ 70 nm blueshift.
-<br>b. High Temperature Anneal Device – indium diffusion
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	uLED with different size fabricated (1/5/50 um).
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	High temperature anneals introduced.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii.	~ 100 nm blueshift.
-<br>c. MOS Field Effect Device – piezoelectric filed manipulation
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	Circular uLED of diameter 50 um with third terminal on top insulator.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	Lumerical, Comsol and TCAD simulation for band structure changes.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii.	Tuning emission color with field voltage, no intensity variation.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv.	~11 nm blueshift.
+* **Cleanroom Fabrication and Characterization(2018-2026)**
+<br>1. Thin film deposition (ALD, PECVD, LPCVD, e-Beam evaporation, sputter)
+<br>2. Dry and wet etch (RIE, ICP)
+<br>3. Lithography (Mask Aligner, ASML Stepper)
+<br>4. SEM, TEM, PL, SEM-CL, SEM nano probe.
+
+* **Emission tuning of Multiple Quantum Well in microLED (2022 ~ 2026)**
+<br>High Indium content InGaN/GaN wafer
+<br>*1. Nanostructure Device – <u>strain relaxation</u>*
+<br>GaN nanopillar fabricated by ICP etching with nanosphere as hard mask. Then TEOS SiO2 was used as filling material for planarization via slurry polish. Around 70nm blueshift was achieved as compared to the as-grown material.
+<br>*2. High Temperature Anneal Device – <u>indium diffusion</u>*
+<br>MicroLED with different sizes (1/5/50um) were fabricated by standard fabrication process. High temperature anneal was then introduced, leading to about 100nm blueshift.
+<br>*3. MOS Field Effect Device – <u>piezoelectric filed manipulation</u>*
+<br>Lumerical, Comsol and TCAD simulation were carried out for proposal hypothesis. Circular microLED of diameter in 50um with third terminal on top insulator were fabricated. ~11nm blueshift without intensity variation was demonstrated by tuning the voltage on field terminal.
 
 * **Process Integration Engineer - COT (2020 ~ 2021)**
-<br>a. Maintain and update pdk of silicon photonics device design, help with tape out.
-<br>b. Develop python scripts (IPKISS, KLAYOUT) for generating device structure, reduce the difficulty for designer.
-<br>c. Build standard mask data format library with Front End of Line (FEOL) FAB, achieve efficient communication between PIE and FAB.
-<br>d. Run product lots at the back end of line (BEOL).
+<br>1. Maintain and update pdk of silicon photonics device design, help with tape out.
+<br>2. Develop python scripts (IPKISS, KLAYOUT) for generating device structure, reduce the difficulty for designer.
+<br>3. Build standard mask data format library with Front End of Line (FEOL) FAB, achieve efficient communication between PIE and FAB.
+<br>4. Run product lots at the back end of line (BEOL).
 
 * **Studies of Thermal Stability of Flexible Transparent Mini-LED Array (2019~2020)**
-<br>a. Design driving circuit (PCB) and display circuit (FPC) with Altium Designer.  Bonding 1024 LED chips by flip-chip transfer.
-<br>b. A flexible and transparent 32×32 mini-LED array on PET substrate up to a brightness rating of 5000 nits at room temperature was presented. 
-<br>c. Color differences are far less than the color discrimination threshold of 0.005 in long-term working situation.
+<br>1. Design driving circuit (PCB) and display circuit (FPC) with Altium Designer.  Bonding 1024 LED chips by flip-chip transfer.
+<br>2. A flexible and transparent 32×32 mini-LED array on PET substrate up to a brightness rating of 5000 nits at room temperature was presented. 
+<br>3. Color differences are far less than the color discrimination threshold of 0.005 in long-term working situation.
 
 ## **Publications**
 ### **Journal Paper**
