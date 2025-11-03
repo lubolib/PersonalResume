@@ -31,7 +31,7 @@ Date of birth: **04.Feb.1998** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <br>*1. <ins>Nanostructure Device – strain relaxation</ins>*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Nanopillar of diameter ~100nm fabricated by Cl2 dry etch and TMAH wet etch.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Device filled with TEOS SiO2 and planarized by slurry polish.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Current injected EL blue-shifted 100nm as compared to the as-grown material. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Current injected EL blue-shifted 70nm as compared to the as-grown material. 
 <br>*2. <ins>High Temperature Anneal Device – indium diffusion</ins>*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;uLED fabricated with dimension varies from 1/5/50um.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;High temperature annealing introduced.
