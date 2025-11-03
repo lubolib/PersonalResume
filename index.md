@@ -33,11 +33,11 @@ Date of birth: **04.Feb.1998**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Nanopillar of diameter ~100nm fabricated by Cl2 dry etch and TMAH wet etch.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Device filled with TEOS SiO2 and planarized by slurry polish.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Current injected EL blue-shifted 100nm as compared to the as-grown material. 
-<br>*2. <u>High Temperature Anneal Device – indium diffusion</u>*
+<br>*2. <ins>High Temperature Anneal Device – indium diffusion</ins>*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;uLED fabricated with dimension varies from 1/5/50um.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;High temperature annealing introduced.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Excited PL blue-shifted 100nm as compared to the as-grown material.
-<br>*3. <u>MOS Field Effect Device – band structure manipulation</u>*
+<br>*3. <ins>MOS Field Effect Device – band structure manipulation</ins>*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Lumerical, Comsol and TCAD simulated for proposal hypothesis.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Circular uLED (50um) fabricated with third terminal on top insulator.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Achieved ~11nm blueshift without intensity variation.
