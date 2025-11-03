@@ -1,7 +1,6 @@
 ## **Bo LU**
 
-Date of birth: **04.Feb.1998**
-<br>Contact: **+86 15602454711 / <alpha_lb@outlook.com>**
+Date of birth: **04.Feb.1998** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact: **+86 15602454711 / <alpha_lb@outlook.com>**
 
 ## **Education & Experience**
 ***Skills: Python, Jupyter, Matlab, HPC, Lumerical, Comsol, Klayout***
@@ -79,3 +78,4 @@ Date of birth: **04.Feb.1998**
 ## **Patents**
 * Lu Bo, Micro light-emitting diode chip and display panel, China Patent, CN:201921765435: U, 20200505
 * Lu Bo, Transfer substrate and system of LED Chips, China Patent, CN201921773581.7, 20200724
+
