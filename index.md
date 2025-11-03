@@ -1,5 +1,3 @@
-<br/>
-
 ## **Bo LU**
 
 Date of birth: **04.Feb.1998**
@@ -25,16 +23,24 @@ Date of birth: **04.Feb.1998**
 <br>1. Thin film deposition (ALD, PECVD, LPCVD, e-Beam evaporation, sputter)
 <br>2. Dry and wet etch (RIE, ICP)
 <br>3. Lithography (Mask Aligner, ASML Stepper)
-<br>4. SEM, TEM, PL, SEM-CL, SEM nano probe.
+<br>4. Wafer Laser/Saw Dicing, Wire Bonding
+<br>5. SEM, TEM, SEM nano probe, EL, PL, CL
+<br>6. Python Script for data analysis
 
 * **Emission tuning of Multiple Quantum Well in microLED (2022 ~ 2026)**
 <br>High Indium content InGaN/GaN wafer
-<br>*1. Nanostructure Device – <u>strain relaxation</u>*
-<br>&nbsp;&nbsp;&nbsp;&nbsp;GaN nanopillar fabricated by ICP etching with nanosphere as hard mask. Then TEOS SiO2 was used as filling material for planarization via slurry polish. Around 70nm blueshift was achieved as compared to the as-grown material.
-<br>*2. High Temperature Anneal Device – <u>indium diffusion</u>*
-<br>&nbsp;&nbsp;&nbsp;&nbsp;MicroLED with different sizes (1/5/50um) were fabricated by standard fabrication process. High temperature anneal was then introduced, leading to about 100nm blueshift.
-<br>*3. MOS Field Effect Device – <u>band structure manipulation</u>*
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Lumerical, Comsol and TCAD simulation were carried out for proposal hypothesis. Circular microLED of diameter in 50um with third terminal on top insulator were fabricated. ~11nm blueshift without intensity variation was demonstrated by tuning the voltage on field terminal.
+<br>*1. <u>Nanostructure Device – strain relaxation</u>*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Nanopillar of diameter ~100nm fabricated by Cl2 dry etch and TMAH wet etch.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Device filled with TEOS SiO2 and planarized by slurry polish.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Current injected EL blue-shifted 100nm as compared to the as-grown material. 
+<br>*2. <u>High Temperature Anneal Device – indium diffusion</u>*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;uLED fabricated with dimension varies from 1/5/50um.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;High temperature annealing introduced.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Excited PL blue-shifted 100nm as compared to the as-grown material.
+<br>*3. <u>MOS Field Effect Device – band structure manipulation</u>*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Lumerical, Comsol and TCAD simulated for proposal hypothesis.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Circular uLED (50um) fabricated with third terminal on top insulator.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Achieved ~11nm blueshift without intensity variation.
 
 * **Process Integration Engineer - COT (2020 ~ 2021)**
 <br>1. Maintain and update pdk of silicon photonics device design, help with tape out.
@@ -73,4 +79,3 @@ Date of birth: **04.Feb.1998**
 ## **Patents**
 * Lu Bo, Micro light-emitting diode chip and display panel, China Patent, CN:201921765435: U, 20200505
 * Lu Bo, Transfer substrate and system of LED Chips, China Patent, CN201921773581.7, 20200724
-
