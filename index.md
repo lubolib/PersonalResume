@@ -39,7 +39,7 @@ Date of birth: **04.Feb.1998** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <br>*3. <ins>MOS Field Effect Device – band structure manipulation</ins>*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Lumerical, Comsol and TCAD simulated for proposal hypothesis.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Circular uLED (50um) fabricated with third terminal on top insulator.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Achieved ~11nm blueshift without intensity variation.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Achieved ~11nm EL blueshift without intensity variation.
 
 * **Process Integration Engineer - COT (2020 ~ 2021)**
 <br>1. Maintain and update pdk of silicon photonics device design, help with tape out.
