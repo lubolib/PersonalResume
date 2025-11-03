@@ -29,7 +29,7 @@ Date of birth: **04.Feb.1998**
 
 * **Emission tuning of Multiple Quantum Well in microLED (2022 ~ 2026)**
 <br>High Indium content InGaN/GaN wafer
-<br>*1. <u>Nanostructure Device – strain relaxation</u>*
+<br>*1. <ins>Nanostructure Device – strain relaxation</ins>*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Nanopillar of diameter ~100nm fabricated by Cl2 dry etch and TMAH wet etch.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Device filled with TEOS SiO2 and planarized by slurry polish.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Current injected EL blue-shifted 100nm as compared to the as-grown material. 
