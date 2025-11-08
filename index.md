@@ -24,7 +24,7 @@ Date of birth: **04.Feb.1998** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <br>3. Lithography (Mask Aligner, ASML Stepper)
 <br>4. Wafer Laser/Saw Dicing, Wire Bonding
 <br>5. SEM, TEM, SEM nano probe, EL, PL, CL
-<br>6. Python Script (Machine Learning) for data analysis
+<br>6. Machine Learning (python) tool for data analysis
 
 * **Emission tuning of Multiple Quantum Well in microLED (2022 ~ 2026)**
 <br>High Indium content InGaN/GaN wafer
